@@ -1,0 +1,25 @@
+PAL-U5-128K-4K-Common.pld
+		1MB RAM/EPROM fuer CP/M+ oder CP/M3ROM mit CPU/S oder CPU85SC
+		8 Sockel 128K
+		4K Common-Bereich, VIDEO80
+		1 MByte Dekodierung, Adr. 00000-FFFFF
+
+PAL-U5-128K-8K-Common.pld
+		1MB RAM/EPROM fuer CP/M+ oder CP/M3ROM mit CPU/S oder CPU85SC
+		8 Sockel 128K
+		8K Common-Bereich, VIDEO80
+		1 MByte Dekodierung, Adr. 00000-FFFFF
+
+PAL-U5-128K-16K-Common.pld
+		1MB RAM/EPROM fuer CP/M+ oder CP/M3ROM mit CPU/S oder CPU85SC
+		8 Sockel 128K
+		16K Common-Bereich, VIDEO80
+		1 MByte Dekodierung, Adr. 00000-FFFFF
+
+PAL-U5-128K-linear-Addr.pld
+		1MB RAM/EPROM fuer CP/M+ oder CP/M3ROM mit CPU/S oder CPU85SC
+		8 Sockel 128K
+		kein Common Bereich, BOOT und VIDEO80 Unterstützung
+		linearer Adressraum	
+		1 MByte Dekodierung, Adr. 00000-FFFFF
+
