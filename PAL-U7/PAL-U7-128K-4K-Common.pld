@@ -44,6 +44,7 @@ A16Out = /CS1*A16*COM
 /CS7    =  A19*A18*/A17*     /A15*               /MREQ* BOOT
         +  A19*A18*/A17*      A15*/A14*          /MREQ
         +  A19*A18*/A17*      A15* A14*/A13*     /MREQ
+        +  A19*A18*/A17*      A15* A14* A13*/A12*/MREQ* BLANK
 
 /CS8    =  A19*A18*A17*     /A15*               /MREQ* BOOT
         +  A19*A18*A17*      A15*/A14*          /MREQ
